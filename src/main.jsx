@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import App from './pages/App.jsx'
-import AboutPage from './pages/about.jsx';
+import AboutPage from './pages/About.jsx';
 import InfraTechPage from './pages/InfraTech.jsx';
 import CurriculumPage from './pages/Curriculum.jsx';
 import StudentPage from './pages/Student.jsx';
