@@ -5,7 +5,7 @@ function HomeMainStaffComp(){
                 <div className="flex flex-wrap justify-evenly">
                     <div className="p-10 flex-col lg:w-1/3 m-5 bg-stone-300 rounded-3xl self-center">
                         <h1 className="text-4xl text-center text-stone-800">PATRON</h1><br/>
-                        <img src="/src/assets/patron.JPG" className="rounded-4xl"/><br/><br/>
+                        <img src="/src/assets/patron.jpg" className="rounded-4xl"/><br/><br/>
                         <p className="text-stone-700">Alakh Pandey, commonly known as "Alakh Sir," is an Indian educator, entrepreneur, and the Founder and CEO of Physics Wallah (PW), an ed-tech company. He gained popularity for his online physics lessons, particularly for JEE and NEET preparation, and later expanded PW to offer courses for various competitive exams. </p>
                     </div>
 
